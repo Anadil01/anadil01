@@ -123,7 +123,8 @@ Airbnb-inspired vacation rental platform.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/anadil-gazi/
 - 💻 GitHub: https://github.com/Anadil01
-- 📧 Email: your-email@example.com
+- 📧 Email: mdanadil32@gmail.com@gmail.com
+- Portfolio: https://anadil.vercel.app/
 
 ---
 
