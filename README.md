@@ -1,3 +1,9 @@
+![](https://komarev.com/ghpvc/?username=Anadil01&label=Profile%20Views&color=0e75b6&style=flat)
+
+[![GitHub followers](https://img.shields.io/github/followers/Anadil01?label=Followers&style=social)](https://github.com/Anadil01)
+
+[![GitHub stars](https://img.shields.io/github/stars/Anadil01?style=social)](https://github.com/Anadil01)
+
 <h1 align="center">Hi 👋, I'm Anadil Gazi</h1>
 
 <h3 align="center">
